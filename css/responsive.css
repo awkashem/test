@@ -1,0 +1,37 @@
+
+
+@media screen and (min-width: 1200px){
+.leftsection {
+  position: fixed;
+  width: 20%;
+}
+
+
+}
+
+
+@media screen and (min-width: 992px){
+.leftsection {
+  position: fixed;
+  width: 20%;
+}
+.leftsection img {
+	margin-left: 3%;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	width: 172px;
+	height: 171px;
+}
+
+
+}
+
+@media screen and (min-width: 768px){
+.leftsection {
+	position: fixed;
+	width: 19%;
+	/* padding-right: 10px; */
+}
+
+
+}
